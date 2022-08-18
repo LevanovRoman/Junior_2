@@ -1,0 +1,28 @@
+body {
+  padding: 0 30px;
+  font-size: 16px;
+  line-height: 32px;
+  font-family: "Montserrat", "Helvetica", "Arial", sans-serif;
+  color: #f2f2f2;
+  background: #080208 url("../images/hero-bg.jpg") no-repeat top center;
+}
+h1 {
+  font-weight: 400;
+  font-size: 24px;
+  line-height: normal;
+}
+.header-menu{
+  list-style-type: none;
+  display: flex;
+  text-align: right;
+
+}
+li.header-li{
+   margin-right: 50px;
+}
+a.header-link{
+text-decoration: none;
+font-size: 18px;
+color: #fea18d;
+font-family: inherit;
+}
